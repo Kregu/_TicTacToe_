@@ -1,2 +1,2 @@
 # _TicTacToe_
-bash
+#!bash
